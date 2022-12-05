@@ -1,8 +1,7 @@
 # w7_Kaggle_Competition
 
-<p align="center"> <img src="https://github.com/AaronNebreda/-w7_Kaggle_Competition/blob/main/img/foto.jpg" width="700" height="350">  </p>
 
-
+![imagen1](https://github.com/AaronNebreda/-w7_Kaggle_Competition/blob/main/img/foto.jpg)
 
 ## Objetivo
 
