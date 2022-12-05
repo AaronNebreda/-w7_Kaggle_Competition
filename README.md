@@ -1,13 +1,13 @@
 # w7_Kaggle_Competition
 
-
+<p align="center"> <img src="https://github.com/AaronNebreda/-w7_Kaggle_Competition/blob/main/img/foto.jpg" width="700" height="350">  </p>
 
 
 
 ## Objetivo
 
 
-El objetivo principal de este proyecto es entrenar el mejor modelo predictivo posible de Machine Laerning, que calcule el salario de un cunjunto de datos sobre trabajos de Data.
+El objetivo principal de este proyecto es entrenar el mejor modelo predictivo posible de Machine Laerning, que calcule el salario de un conjunto de datos sobre trabajos de Data.
 
 
 ## Recursos
@@ -21,7 +21,7 @@ El objetivo principal de este proyecto es entrenar el mejor modelo predictivo po
 
 El desarrollo del proyecto es un proceso iterativo que sigue los siguientes pasos:
 
-1️⃣ Analisis exploratorio y limpieza de datos
+1️⃣ Análisis exploratorio y limpieza de datos
 
 2️⃣ Transformación de los datos
 
@@ -34,4 +34,8 @@ El desarrollo del proyecto es un proceso iterativo que sigue los siguientes paso
 6️⃣Evaluar el modelo
 
 Mediante ensayo y error y haciendo pequeñas modificaciones en el dataset se repitió este proceso para evaluar que transformaciones en el dataset y que modelos predicen mejor.
+
+Con cada uno de los mejores modelos entrenados, se realizó una predicción que se cargaba en la web de kaggle para clasificar dentro de la competición con todos los compañeros de clase.
+
+https://www.kaggle.com/competitions/predecir-salario-data
 
